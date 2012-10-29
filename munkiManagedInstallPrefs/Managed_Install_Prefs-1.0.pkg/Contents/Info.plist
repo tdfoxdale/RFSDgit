@@ -9,9 +9,9 @@
 	<key>IFMajorVersion</key>
 	<integer>2012</integer>
 	<key>IFMinorVersion</key>
-	<integer>1017</integer>
+	<integer>1023</integer>
 	<key>IFPkgBuildDate</key>
-	<date>2012-10-17T16:15:04Z</date>
+	<date>2012-10-23T19:33:34Z</date>
 	<key>IFPkgFlagAllowBackRev</key>
 	<false/>
 	<key>IFPkgFlagAuthorizationAction</key>
